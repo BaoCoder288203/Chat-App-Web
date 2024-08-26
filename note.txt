@@ -1,0 +1,8 @@
+How to make a realtime chat application using PHP with MySql & Javascript
+
+PhpChatApp
+    - index.php
+    - login.php
+    - header.php
+    css
+        - style.css
