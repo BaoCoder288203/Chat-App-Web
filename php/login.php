@@ -23,15 +23,12 @@ if(!empty($email) && !empty($password)){
             }
         }else{
             echo "Email or Password is Incorrect!";
-            // header("location: ../login.php");
         }
     }else{
         echo "$email not found";
-        // header("location: ../login.php");
     }
 }else{
     echo "All input fields are required!";
-    // header("location: ../login.php");
 }
 
 ?>

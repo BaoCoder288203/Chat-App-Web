@@ -32,7 +32,7 @@
             </h1>
             <div class="search">
                 <span class="text">Select an user to start chat</span>
-                <input type="text" name="searchTerm" placeholder="Enter your name to search...">
+                <input type="text" placeholder="Enter your name to search...">
                 <button><i class="fas fa-search"></i></button>
             </div>
             <div class="users-list">
